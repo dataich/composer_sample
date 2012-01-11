@@ -1,0 +1,18 @@
+{
+  "repositories": {
+    "packagist": false,
+    "phpunit de": {
+      "pear": {
+        "url": "http://pear.phpunit.de"
+      }
+    },
+    "symfony-project com": {
+      "pear": {
+        "url": "http://pear.symfony-project.com"
+      }
+    }
+  },
+  "require": {
+    "PHPUnit": ">3.6.6"
+  }
+}
